@@ -8,15 +8,15 @@ dinheiro = float(input("Digite o valor que deseja converter: "))
 #Valores de cada moeda
 dolareu = 0.87
 dolarkw = 916.63
-dolaraf = 63,53
+dolaraf = 63.53
 dolaryuan = 6.71
 dolarreal = 5.20
 
 
 #o valor do euro em relação as outras moedas
 eurodolar = 1.13
-eurokw = 1044,27
-euroaf = 73.
+eurokw = 1044.27
+euroaf = 73
 euroyuan = 7.66
 euroreal = 592
 
