@@ -7,18 +7,18 @@ dinheiro = float(input("Digite o valor que deseja converter: "))
 
 #Valores de cada moeda
 dolareu = 0.87
-dolarkw = 913
-dolaraf = 64.55
-dolaryuan = 6.70
-dolarreal = 5.11
+dolarkw = 916.63
+dolaraf = 63,53
+dolaryuan = 6.71
+dolarreal = 5.20
 
 
 #o valor do euro em relação as outras moedas
-eurodolar = 1.15
-eurokw = 1046.57
-euroaf = 73.99
-euroyuan = 7.70
-euroreal = 5.85
+eurodolar = 1.13
+eurokw = 1044,27
+euroaf = 73.
+euroyuan = 7.66
+euroreal = 592
 
 
 #o valor do kwanza em relação as outras moedas
@@ -31,27 +31,27 @@ kwreal = 0.0056
 
 #o valor do afegâni em relação as outras moedas
 afdolar = 0.016
-afeuro = 0.014
-afkw = 14.24
+afeuro = 0.01
+afkw = 14.43
 afyuan = 0.10
-afreal = 0.079
+afreal = 0.08
 
 
 #o valor do yuan em relação as outras moedas
-yuandolar = 0.15
+yuandolar = 0.14
 yuaneuro = 0.13
-yuankw = 136.87
-yuanaf = 9.38
-yuanreal = 0.76
+yuankw = 136.23
+yuanaf = 10
+yuanreal = 0.77
 
 #o valor do real em relação as outras moedas
 
 
 realdolar = 0.19
-realeuro = 0.17
-realkw = 179.50
-realaf = 12.63
-realyuan = 1.31
+realeuro = 0.16
+realkw = 176.02
+realaf = 12
+realyuan = 1.29
 
 if entrada == "euro" and moe == "dólar":
     resultado = dinheiro * eurodolar
